@@ -1,3 +1,4 @@
+[![Star on GitHub](https://img.shields.io/github/stars/kauemurakami/xlsx-to-json-converter.svg?style=flat&logo=github&colorB=deeppink&label=stars)](https://github.com/kauemurakami/xlsx-to-json-converter)
 ### Convert excel files (.xlsx) to json file (.json)
 
 ### Usage
